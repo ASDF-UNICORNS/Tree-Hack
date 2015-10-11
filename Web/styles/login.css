@@ -1,0 +1,30 @@
+#registration-form
+{
+	border-radius: 30%;
+	width: 350px;
+	margin: 0 auto;
+	padding-left: 70px;
+}
+
+#registration-form h2
+{
+	margin: 0px;
+	margin-left: 90px;
+	padding: 0px;
+	color: blue;
+}
+
+#registration-form input
+{
+	margin: 10px;
+	font-weight: bold;
+	text-align: center;
+	color: green;
+	margin: 10px 0px;
+	font-size: 20px;
+}
+
+#submit
+{
+	width: 76%;
+}

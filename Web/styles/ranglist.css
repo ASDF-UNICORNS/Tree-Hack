@@ -1,0 +1,28 @@
+table
+{
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+th
+{
+	margin: 0px;
+	padding: 10px;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+}
+
+td
+{
+	margin: 0px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+tr
+{
+	background-color: lightgreen;
+}
