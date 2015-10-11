@@ -1,0 +1,26 @@
+h2
+{
+	color: blue;
+	text-align: center;
+}
+
+form
+{
+	width: 400px;
+	margin: 0 auto;
+}
+
+input
+{
+	font-weight: bold;
+	text-align: center;
+	color: green;
+	margin: 10px 0px;
+	margin-left: 60px;
+	font-size: 20px;
+}
+
+#submit
+{
+	width: 67%;
+}

@@ -1,0 +1,91 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background-image: url("resources/favicon.png");
+	background-image: url("../resources/bg.jpg");
+}
+
+#leafs
+{
+	position: absolute;
+    left: 0px;
+    top: 160px;
+	opacity: 0.4;
+}
+
+main
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#logo
+{
+	margin: 0px;
+	padding: 0px;
+	width: 10%;
+	height: 10%;
+	display: inline;
+}
+
+h1
+{
+	margin: 0px;
+	padding: 0px;
+	display: inline;
+}
+
+header
+{
+	margin: 0 auto;
+	padding: 2%;
+	width: 95%;
+}
+
+nav
+{
+	width: 50%;
+	display: inline;
+	margin: 0px;
+	margin-left: 3%;
+	padding: 3%;
+}
+
+ul
+{
+	display: inline;
+	margin: 1%;
+	padding: 10px 2px;
+	background-color: lightblue;
+}
+
+li
+{
+	display: inline;
+	margin: 1%;
+	padding: 10px 2px;
+	padding-bottom: 6px;
+}
+
+li:hover
+{
+	background-color: lightgreen;
+	border-bottom: 3px solid green;
+	color: red;
+}
+
+nav ul li a
+{
+	font-size: 20px;
+	margin: 3%;
+	padding-bottom: 6px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+nav ul li a:hover
+{
+	color: yellow;
+}
